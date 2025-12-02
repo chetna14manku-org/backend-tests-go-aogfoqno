@@ -17,5 +17,5 @@ func main() {
 }
 
 func HelloServer(w http.ResponseWriter, r *http.Request) {   
-	fmt.Fprint(w, "Hello World - Updated! 1764671952216 !") 
+	fmt.Fprint(w, "Hello World - Updated! 176467 !") 
 }
